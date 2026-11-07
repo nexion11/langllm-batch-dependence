@@ -1,0 +1,7 @@
+{
+  "n_essays": 839,
+  "mean_offdiag_ours": 0.48611944777911165,
+  "mean_offdiag_published": 0.48611944777911165,
+  "max_abs_cell_difference": 0.0,
+  "gate_G2_pass": true
+}

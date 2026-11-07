@@ -1,0 +1,100 @@
+{
+  "A_mix_balanced_accuracy": {
+    "0.2": {
+      "batch": 0.4916,
+      "full": 0.4861,
+      "none": 0.3003
+    },
+    "0.4": {
+      "batch": 0.4896,
+      "full": 0.4871,
+      "none": 0.3006
+    },
+    "0.6": {
+      "batch": 0.4773,
+      "full": 0.4856,
+      "none": 0.3006
+    },
+    "0.8": {
+      "batch": 0.4664,
+      "full": 0.4865,
+      "none": 0.3011
+    }
+  },
+  "A_size_balanced_accuracy": {
+    "5.0": {
+      "batch": 0.515,
+      "full": 0.4891,
+      "none": 0.3017
+    },
+    "10.0": {
+      "batch": 0.4985,
+      "full": 0.4859,
+      "none": 0.3003
+    },
+    "20.0": {
+      "batch": 0.4923,
+      "full": 0.4855,
+      "none": 0.3005
+    },
+    "40.0": {
+      "batch": 0.488,
+      "full": 0.4864,
+      "none": 0.3007
+    }
+  },
+  "A_batch_drop_20_to_80pct_mix_points": 2.52,
+  "B_mean_accuracy": {
+    "batch": 0.4593,
+    "none": 0.2735,
+    "reference": 0.4346
+  },
+  "B_split_sd": {
+    "batch": 0.0158,
+    "none": 0.0162,
+    "reference": 0.0163
+  },
+  "B_none_minus_batch_points": -18.58,
+  "B_recovery_fraction": 0.867,
+  "C_pooled_auroc_by_model": {
+    "claude": {
+      "batch": 0.5004,
+      "none": 0.4904,
+      "reference": 0.4602
+    },
+    "deepseek": {
+      "batch": 0.6097,
+      "none": 0.5138,
+      "reference": 0.5853
+    },
+    "gemini": {
+      "batch": 0.598,
+      "none": 0.5016,
+      "reference": 0.5556
+    },
+    "gpt": {
+      "batch": 0.481,
+      "none": 0.5028,
+      "reference": 0.4252
+    },
+    "grok": {
+      "batch": 0.4614,
+      "none": 0.4966,
+      "reference": 0.42
+    }
+  },
+  "C_pooled_auroc_mean_over_models": {
+    "reference": 0.4893,
+    "none": 0.501,
+    "batch": 0.5301
+  },
+  "C_known_accuracy": {
+    "batch": 0.5214,
+    "none": 0.3264,
+    "reference": 0.4927
+  },
+  "gate_G3a_matters": true,
+  "gate_G3b_recovers_most": true,
+  "gate_G3c_rejection_weak": true,
+  "runtime_seconds": 40.1
+}

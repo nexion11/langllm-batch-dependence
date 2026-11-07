@@ -1,0 +1,308 @@
+[
+  {
+    "id": "N01",
+    "lang": "ru",
+    "prompt": "Напишите убедительное эссе на тему запрета смартфонов в классах средних школ. Приведите доводы в пользу введения такого запрета. В своём эссе обязательно осветите следующие аспекты: как отсутствие телефонов влияет на концентрацию внимания учеников на уроках, как запрет смартфонов сказывается на распространении травли в интернете в течение учебного дня, и как это нововведение меняет характер общения школьников во время перемен. Объём эссе - около 350 слов.",
+    "schema": {
+      "id": "N01",
+      "topic": "Banning smartphones from secondary-school classrooms",
+      "stance": "for",
+      "subclaims": [
+        "Removing phones reduces distraction and improves attention in lessons",
+        "It limits online bullying during the school day",
+        "Students spend more breaks talking face to face"
+      ],
+      "fk_tier": "general"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 282,
+      "completion_tokens": 92,
+      "cost": 0.000104105,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:07:42.756670+00:00"
+  },
+  {
+    "id": "N02",
+    "lang": "ru",
+    "prompt": "Напишите убедительное эссе на тему замены печатных книг электронными в публичных библиотеках. Выскажите свою позицию против этого предложения и аргументируйте её.\n\nВ вашем эссе необходимо рассмотреть следующие аспекты: доступность устройств для чтения электронных книг среди пользователей библиотек, долговечность печатных изданий и влияние физического расположения книг на процесс их выбора читателями.\n\nРазверните каждый из этих аргументов в отдельном абзаце, подкрепляя свои утверждения убедительными доводами. Сформулируйте свои мысли ясно и последовательно, чтобы убедить читателя в своей правоте.\n\nОбъем эссе - около 350 слов.",
+    "schema": {
+      "id": "N02",
+      "topic": "Replacing printed books with e-books in public libraries",
+      "stance": "against",
+      "subclaims": [
+        "Many library users do not own a suitable reading device",
+        "Printed books last for decades without licence renewals",
+        "Browsing physical shelves helps readers discover unexpected books"
+      ],
+      "fk_tier": "general"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "writer_seed": 3,
+    "usage": {
+      "prompt_tokens": 287,
+      "completion_tokens": 125,
+      "cost": 0.00020817,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:13:04.802690+00:00"
+  },
+  {
+    "id": "N03",
+    "lang": "ru",
+    "prompt": "Напишите убедительное эссе в поддержку введения обязательных занятий по кулинарии в средних школах. В своей работе приведите аргументы в пользу того, что такие занятия принесут пользу учащимся и обществу в целом. \n\nВ эссе необходимо осветить следующие аспекты: как кулинарные навыки могут повлиять на здоровье и питание школьников, каким образом они могут способствовать экономии средств и снижению пищевых отходов в домохозяйствах, и как они могут подготовить молодых людей к самостоятельной жизни.\n\nОбъем эссе - около 350 слов.",
+    "schema": {
+      "id": "N03",
+      "topic": "Making cooking classes compulsory in secondary school",
+      "stance": "for",
+      "subclaims": [
+        "Students learn to prepare healthier meals for themselves",
+        "Cooking skills help households save money and waste less food",
+        "Young people leave home more able to live independently"
+      ],
+      "fk_tier": "general"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 284,
+      "completion_tokens": 105,
+      "cost": 0.00018712,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:07:45.525969+00:00"
+  },
+  {
+    "id": "N04",
+    "lang": "ru",
+    "prompt": "Напишите убедительное эссе на тему \"Разрешение на посещение ресторанов с домашними животными\". Выскажите аргументы против этого предложения. В своём эссе необходимо затронуть следующие аспекты: как присутствие животных в залах может повлиять на соблюдение санитарных норм; каким образом это нововведение затронет людей с аллергией на животных или боязнью животных; и как поведение животных может испортить впечатление от посещения ресторана для остальных гостей. Эссе должно быть написано ясным и доступным языком, объёмом около 350 слов.",
+    "schema": {
+      "id": "N04",
+      "topic": "Allowing pets inside all restaurants",
+      "stance": "against",
+      "subclaims": [
+        "Animals in dining areas raise food-hygiene risks",
+        "Customers with allergies or fear of animals would be excluded",
+        "Noise and disruption would spoil the experience for other diners"
+      ],
+      "fk_tier": "general"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "writer_seed": 2,
+    "usage": {
+      "prompt_tokens": 285,
+      "completion_tokens": 109,
+      "cost": 0.00019147,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:13:03.338411+00:00"
+  },
+  {
+    "id": "N05",
+    "lang": "ru",
+    "prompt": "Напишите убедительное эссе в поддержку введения национального налога на сладкие напитки. В своей аргументации опирайтесь на имеющиеся данные и исследования, показывающие эффективность подобного шага в улучшении здоровья населения. В эссе необходимо развить три основных аргумента в пользу налога на сладкие напитки: во-первых, обосновать, как повышение цен влияет на потребление таких напитков; во-вторых, показать, каким образом доходы от налога могут быть использованы для финансирования программ по охране здоровья населения; в-третьих, рассмотреть, как производители напитков реагируют на введение налога, изменяя состав своей продукции. Каждый из этих аргументов должен быть подробно раскрыт в отдельном абзаце. Объем эссе - около 350 слов.",
+    "schema": {
+      "id": "N05",
+      "topic": "A national tax on sugar-sweetened drinks",
+      "stance": "for",
+      "subclaims": [
+        "Higher prices reduce consumption of sugary drinks",
+        "Tax revenue can fund public health programmes",
+        "Manufacturers respond by cutting sugar in their products"
+      ],
+      "fk_tier": "educated"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "writer_seed": 1,
+    "usage": {
+      "prompt_tokens": 284,
+      "completion_tokens": 145,
+      "cost": 0.0001390625,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:12:57.794764+00:00"
+  },
+  {
+    "id": "N06",
+    "lang": "ru",
+    "prompt": "Напишите убедительное эссе на тему замены человеческих судей автоматизированными системами в профессиональном футболе, аргументируя свою позицию против этого предложения. В своей работе необходимо рассмотреть следующие аспекты: во-первых, обсудите ограничения автоматизированных систем в оценке намерений при нарушениях правил и игре рукой; во-вторых, проанализируйте, как частые технические проверки влияют на темп игры; в-третьих, докажите, что человеческий фактор и возможные ошибки судей являются неотъемлемой частью культуры этого вида спорта. Разверните каждый из этих аргументов в отдельном абзаце. Объем эссе - около 350 слов.",
+    "schema": {
+      "id": "N06",
+      "topic": "Replacing human referees with automated systems in professional football",
+      "stance": "against",
+      "subclaims": [
+        "Automated systems cannot judge intent in fouls and handballs",
+        "Frequent technical reviews slow the game down",
+        "Human judgement and its mistakes are part of the sport's culture"
+      ],
+      "fk_tier": "educated"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "writer_seed": 1,
+    "usage": {
+      "prompt_tokens": 291,
+      "completion_tokens": 127,
+      "cost": 0.00021157,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:12:59.882671+00:00"
+  },
+  {
+    "id": "N07",
+    "lang": "ru",
+    "prompt": "Напишите убедительное эссе в поддержку отмены сезонного перевода часов. В своём сочинении приведите весомые аргументы в пользу установления постоянного часового режима, рассмотрев, в частности, негативное влияние перевода часов на здоровье и режим сна людей, утрату энергоэффективности как одного из ключевых первоначальных обоснований этой практики, а также упрощение организации поездок, составления графиков и ведения международного бизнеса при отказе от сезонных корректировок времени. Разверните каждый из этих тезисов в отдельном абзаце, подкрепляя рассуждения убедительными фактами и примерами. Общий объём эссе - около 350 слов.",
+    "schema": {
+      "id": "N07",
+      "topic": "Ending seasonal clock changes",
+      "stance": "for",
+      "subclaims": [
+        "Changing the clocks disrupts sleep and health for days afterwards",
+        "The energy savings that justified clock changes are now small",
+        "A fixed time simplifies travel, scheduling and international business"
+      ],
+      "fk_tier": "educated"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 287,
+      "completion_tokens": 129,
+      "cost": 0.00021217,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:07:52.754083+00:00"
+  },
+  {
+    "id": "N08",
+    "lang": "ru",
+    "prompt": "Напишите убедительное эссе на тему допустимости полностью беспилотных такси в городах без водителя-оператора. Выступите против введения таких такси, представив весомые аргументы в защиту своей позиции. В своём эссе необходимо затронуть следующие аспекты: способность беспилотных автомобилей справляться с редкими и нестандартными дорожными ситуациями, неясность вопроса об ответственности в случае ДТП с участием таких транспортных средств, а также последствия резкого перехода к беспилотным такси для занятости водителей. Каждый из этих аспектов должен быть подробно рассмотрен в отдельном абзаце. Ожидаемый объём эссе - около 350 слов.",
+    "schema": {
+      "id": "N08",
+      "topic": "Permitting fully driverless taxis in cities without a safety driver",
+      "stance": "against",
+      "subclaims": [
+        "Rare and unusual road situations are still handled poorly",
+        "Legal responsibility after a crash remains unclear",
+        "A sudden shift would cost many drivers their jobs before alternatives exist"
+      ],
+      "fk_tier": "educated"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "writer_seed": 1,
+    "usage": {
+      "prompt_tokens": 290,
+      "completion_tokens": 127,
+      "cost": 0.00021698,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:13:00.424515+00:00"
+  },
+  {
+    "id": "N09",
+    "lang": "ru",
+    "prompt": "Напишите убедительное эссе в поддержку требования открытого доступа к публикациям исследований, финансируемых за счёт государственных средств. В своей аргументации опирайтесь на следующие соображения: во-первых, недопустимость двойной оплаты общественностью научных исследований - сначала через налоги, а затем через плату за доступ к результатам; во-вторых, ускорение распространения и повторного использования научных результатов при свободном доступе к ним; в-третьих, повышение воспроизводимости исследований благодаря открытому опубликованию данных и методов. Разверните каждое из этих положений в отдельном абзаце. Предполагается, что читатель обладает высоким уровнем компетентности в соответствующей области, поэтому используйте специальную терминологию без дополнительных пояснений. Объем эссе - около 350 слов.",
+    "schema": {
+      "id": "N09",
+      "topic": "Requiring open-access publication for publicly funded research",
+      "stance": "for",
+      "subclaims": [
+        "The public should not pay twice, once for the research and again to read it",
+        "Free access speeds the spread and reuse of findings",
+        "Publishing data and methods openly improves reproducibility"
+      ],
+      "fk_tier": "expert"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 287,
+      "completion_tokens": 150,
+      "cost": 0.00023317,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:07:56.084988+00:00"
+  },
+  {
+    "id": "N10",
+    "lang": "ru",
+    "prompt": "Напишите убедительное эссе, в котором аргументируйте неприемлемость предложения о внедрении стратосферной аэрозольной инъекции как средства охлаждения климата. В своей работе необходимо привести весомые контраргументы против этого подхода, опираясь на три ключевых аспекта проблемы.\n\nВ эссе следует подробно развить следующие тезисы, каждый в отдельном абзаце: возможные последствия внезапного прекращения инъекций для глобального климата; неопределенность относительно региональных изменений режима осадков; потенциальное влияние этого технологического решения на политическую волю к сокращению выбросов парниковых газов.\n\nПредполагается, что читатель обладает высоким уровнем компетентности в обсуждаемой области, поэтому использование специальной терминологии не требует дополнительных пояснений. Объем эссе - около 350 слов.",
+    "schema": {
+      "id": "N10",
+      "topic": "Deploying stratospheric aerosol injection to cool the climate",
+      "stance": "against",
+      "subclaims": [
+        "Stopping the injections suddenly would cause rapid rebound warming",
+        "Regional rainfall patterns could shift unpredictably",
+        "It risks weakening political will to cut emissions"
+      ],
+      "fk_tier": "expert"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "writer_seed": 1,
+    "usage": {
+      "prompt_tokens": 279,
+      "completion_tokens": 155,
+      "cost": 0.00023537,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:13:05.705604+00:00"
+  },
+  {
+    "id": "N11",
+    "lang": "ru",
+    "prompt": "Напишите убедительное эссе в поддержку принятия законов о праве на ремонт потребительской электроники. В своей аргументации опирайтесь на следующие ключевые соображения: ремонтопригодность устройств снижает объём электронных отходов; доступ к запчастям и руководствам по ремонту уменьшает затраты владельцев на восстановление техники; независимые ремонтные мастерские привносят конкуренцию на рынок, где доминируют производители. Разверните каждое из этих положений в отдельном абзаце, подкрепив их соответствующими доводами. Предполагается, что читатель знаком с контекстом и терминологией, поэтому используйте специальную лексику без пояснений. Объём эссе - около 350 слов.",
+    "schema": {
+      "id": "N11",
+      "topic": "Right-to-repair laws for consumer electronics",
+      "stance": "for",
+      "subclaims": [
+        "Repairable devices reduce electronic waste",
+        "Access to parts and manuals lowers repair costs for owners",
+        "Independent repair shops bring competition to a closed market"
+      ],
+      "fk_tier": "expert"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 280,
+      "completion_tokens": 136,
+      "cost": 0.00013244,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:08:02.697441+00:00"
+  },
+  {
+    "id": "N12",
+    "lang": "ru",
+    "prompt": "Напишите убедительное эссе, в котором аргументируйте неприемлемость опреснения морской воды в качестве основного источника водоснабжения прибрежных городов. В своей работе необходимо привести веские доводы против этого предложения, опираясь на следующие ключевые аспекты проблемы. \n\nВ эссе следует подробно рассмотреть энергетические затраты, необходимые для реализации проектов опреснения, воздействие сброса концентрированного рассола на морские экосистемы в районах выпуска сточных вод, а также сравнить экономические показатели опреснения с альтернативными методами обеспечения водоснабжения, такими как сохранение водных ресурсов и повторное использование воды. Каждый из этих аспектов должен быть детально проанализирован в отдельном абзаце. \n\nПредполагается, что читатель обладает высоким уровнем компетентности в данной области, поэтому использование специальной терминологии не требует дополнительных пояснений. Объем эссе - около 350 слов.",
+    "schema": {
+      "id": "N12",
+      "topic": "Making desalination the main water supply for coastal cities",
+      "stance": "against",
+      "subclaims": [
+        "Desalination requires large amounts of energy",
+        "Discharged brine harms marine ecosystems near outfalls",
+        "Conservation and water reuse deliver supply more cheaply"
+      ],
+      "fk_tier": "expert"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 281,
+      "completion_tokens": 172,
+      "cost": 0.00025307,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:08:05.310611+00:00"
+  }
+]

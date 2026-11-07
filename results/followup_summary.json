@@ -1,0 +1,104 @@
+{
+  "baseline_accuracy": {
+    "none": 0.2789,
+    "batch": 0.464,
+    "reference": 0.437
+  },
+  "F1_accuracy_by_k": {
+    "5": 0.4135,
+    "10": 0.4263,
+    "20": 0.4329,
+    "40": 0.4359,
+    "60": 0.437
+  },
+  "F1_recovery_by_k": {
+    "5": 0.727,
+    "10": 0.796,
+    "20": 0.832,
+    "40": 0.848,
+    "60": 0.854
+  },
+  "F1_rule_k10_recovers_half": true,
+  "F2a_accuracy_by_dominant_count": {
+    "1": 0.4132,
+    "4": 0.4192,
+    "8": 0.4183,
+    "12": 0.4169
+  },
+  "F2a_recovery_by_dominant_count": {
+    "1": 0.725,
+    "4": 0.758,
+    "8": 0.753,
+    "12": 0.746
+  },
+  "F2a_accuracy_at_d12_by_dominant_model": {
+    "claude": 0.4227,
+    "deepseek": 0.4371,
+    "gemini": 0.4395,
+    "gpt": 0.3863,
+    "grok": 0.3989
+  },
+  "F2b_accuracy_by_models_covered": {
+    "1": 0.4024,
+    "2": 0.4176,
+    "3": 0.4275,
+    "4": 0.4335,
+    "5": 0.437
+  },
+  "F2b_recovery_by_models_covered": {
+    "1": 0.667,
+    "2": 0.749,
+    "3": 0.803,
+    "4": 0.835,
+    "5": 0.854
+  },
+  "F2b_one_model_reference_accuracy": {
+    "claude": 0.41,
+    "deepseek": 0.436,
+    "gemini": 0.4322,
+    "gpt": 0.3614,
+    "grok": 0.3723
+  },
+  "F2b_rule_one_model_below_half": false,
+  "F3_top_features": {
+    "bigram_entropy": {
+      "accuracy_drop_points": 11.52,
+      "language_shift_sd": 7.64
+    },
+    "mean_token_len": {
+      "accuracy_drop_points": 9.85,
+      "language_shift_sd": 23.09
+    },
+    "func_word_ratio": {
+      "accuracy_drop_points": 5.6,
+      "language_shift_sd": 4.24
+    },
+    "hapax_rate": {
+      "accuracy_drop_points": 4.54,
+      "language_shift_sd": 3.49
+    },
+    "zipf_slope": {
+      "accuracy_drop_points": 4.5,
+      "language_shift_sd": 3.65
+    },
+    "mattr": {
+      "accuracy_drop_points": 4.05,
+      "language_shift_sd": 3.5
+    },
+    "subord_rate": {
+      "accuracy_drop_points": 3.53,
+      "language_shift_sd": 2.83
+    },
+    "comma_per_1k": {
+      "accuracy_drop_points": 2.53,
+      "language_shift_sd": 1.24
+    }
+  },
+  "F4_length_controlled_accuracy": {
+    "len_none": 0.2504,
+    "len_reference": 0.3304,
+    "len_batch": 0.3441
+  },
+  "F4_rule_reference_within_3pts": false,
+  "runtime_seconds": 19.9
+}

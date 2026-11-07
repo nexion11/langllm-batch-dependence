@@ -1,0 +1,305 @@
+[
+  {
+    "id": "N01",
+    "lang": "zh",
+    "prompt": "请结合实际论据，撰写一篇约600字的议论文，论述中学生课堂上禁止使用智能手机的必要性。在文中，你需要从以下角度展开论证：这一措施如何减少课堂上的分心现象、提高学生的专注度；如何限制校园欺凌的发生；以及如何促进学生之间面对面的交流。要求论点明确，论据充分，语言流畅。",
+    "schema": {
+      "id": "N01",
+      "topic": "Banning smartphones from secondary-school classrooms",
+      "stance": "for",
+      "subclaims": [
+        "Removing phones reduces distraction and improves attention in lessons",
+        "It limits online bullying during the school day",
+        "Students spend more breaks talking face to face"
+      ],
+      "fk_tier": "general"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 281,
+      "completion_tokens": 84,
+      "cost": 0.00017083,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:07:22.277377+00:00"
+  },
+  {
+    "id": "N02",
+    "lang": "zh",
+    "prompt": "有人提议公共图书馆用电子书取代纸质书。请你写一篇驳论文，反对这一提议。请分别从读者使用条件、图书使用年限和阅读体验三个方面阐述你的理由。字数大约600字。",
+    "schema": {
+      "id": "N02",
+      "topic": "Replacing printed books with e-books in public libraries",
+      "stance": "against",
+      "subclaims": [
+        "Many library users do not own a suitable reading device",
+        "Printed books last for decades without licence renewals",
+        "Browsing physical shelves helps readers discover unexpected books"
+      ],
+      "fk_tier": "general"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "writer_seed": 2,
+    "usage": {
+      "prompt_tokens": 286,
+      "completion_tokens": 49,
+      "cost": 0.00013182,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:12:43.419829+00:00"
+  },
+  {
+    "id": "N03",
+    "lang": "zh",
+    "prompt": "在中学阶段开设烹饪课程并将其列为必修内容，这一提议近年来引发了广泛讨论。请你撰写一篇议论文，论述在中学阶段强制推行烹饪教育的可行性和必要性。文章应围绕以下实际问题展开论述：在中学阶段开设烹饪课程，能否帮助学生养成健康的饮食习惯？是否能为家庭节省开支并减少食物浪费？以及是否能提高年轻人的独立生活能力？请你结合这些问题，阐述自己的观点，并给出充分的理由和实例。字数大约600字。",
+    "schema": {
+      "id": "N03",
+      "topic": "Making cooking classes compulsory in secondary school",
+      "stance": "for",
+      "subclaims": [
+        "Students learn to prepare healthier meals for themselves",
+        "Cooking skills help households save money and waste less food",
+        "Young people leave home more able to live independently"
+      ],
+      "fk_tier": "general"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "writer_seed": 2,
+    "usage": {
+      "prompt_tokens": 283,
+      "completion_tokens": 123,
+      "cost": 0.00020477,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:12:47.754864+00:00"
+  },
+  {
+    "id": "N04",
+    "lang": "zh",
+    "prompt": "近日，有人提议所有餐厅都应允许顾客带宠物入内用餐。请就此观点写一篇驳论文，阐述你反对这一提议的理由。文章应围绕以下用餐体验中的关键问题展开论述：在餐厅内允许宠物入内是否会增加食品安全隐患？是否会对某些顾客造成不便或伤害？是否会影响其他就餐者的用餐体验？请充分论证你的观点，大约600字。",
+    "schema": {
+      "id": "N04",
+      "topic": "Allowing pets inside all restaurants",
+      "stance": "against",
+      "subclaims": [
+        "Animals in dining areas raise food-hygiene risks",
+        "Customers with allergies or fear of animals would be excluded",
+        "Noise and disruption would spoil the experience for other diners"
+      ],
+      "fk_tier": "general"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 284,
+      "completion_tokens": 94,
+      "cost": 0.00017612,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:07:26.252658+00:00"
+  },
+  {
+    "id": "N05",
+    "lang": "zh",
+    "prompt": "请就征收全国性含糖饮料税这一议题撰写一篇约600字的议论文，论证支持开征此类税种的合理性。在文中，请分别从含糖饮料价格上涨对其消费量的影响、税收收入对公共卫生项目的资助作用以及厂商对产品配方调整的反应这三个角度展开论述，以充分说服读者认同征收含糖饮料税的必要性。",
+    "schema": {
+      "id": "N05",
+      "topic": "A national tax on sugar-sweetened drinks",
+      "stance": "for",
+      "subclaims": [
+        "Higher prices reduce consumption of sugary drinks",
+        "Tax revenue can fund public health programmes",
+        "Manufacturers respond by cutting sugar in their products"
+      ],
+      "fk_tier": "educated"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 283,
+      "completion_tokens": 87,
+      "cost": 0.00010103,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:07:28.388547+00:00"
+  },
+  {
+    "id": "N06",
+    "lang": "zh",
+    "prompt": "随着科技的进步，职业足球中用人机系统取代人类裁判的提议日益受到关注。请就这一提议撰写一篇驳论文，论证在职业足球比赛中继续保留人类裁判的必要性。在文中，你需要从以下角度展开论述：人机系统在判断犯规和手球意图时的局限性，频繁的技术回放对比赛节奏的影响，以及人类裁判的判断及其错误在足球文化中的地位。请充分发挥你的论证能力，通过具体的例子和合理的逻辑来说服读者反对在职业足球比赛中全面引入人机系统裁判。字数大约600字。",
+    "schema": {
+      "id": "N06",
+      "topic": "Replacing human referees with automated systems in professional football",
+      "stance": "against",
+      "subclaims": [
+        "Automated systems cannot judge intent in fouls and handballs",
+        "Frequent technical reviews slow the game down",
+        "Human judgement and its mistakes are part of the sport's culture"
+      ],
+      "fk_tier": "educated"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 290,
+      "completion_tokens": 125,
+      "cost": 0.00020922,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:07:30.095184+00:00"
+  },
+  {
+    "id": "N07",
+    "lang": "zh",
+    "prompt": "请就废除夏令时制度写一篇约600字的议论文，论证其合理性。在文中，你需要从多个角度阐述废除夏令时的好处，包括它对人体健康的影响、其原本的节能目的是否仍然成立，以及对交通、行程安排和国际商务的影响等方面进行深入分析，以说服读者支持废除夏令时。",
+    "schema": {
+      "id": "N07",
+      "topic": "Ending seasonal clock changes",
+      "stance": "for",
+      "subclaims": [
+        "Changing the clocks disrupts sleep and health for days afterwards",
+        "The energy savings that justified clock changes are now small",
+        "A fixed time simplifies travel, scheduling and international business"
+      ],
+      "fk_tier": "educated"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 286,
+      "completion_tokens": 77,
+      "cost": 0.00015982,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:07:31.371832+00:00"
+  },
+  {
+    "id": "N08",
+    "lang": "zh",
+    "prompt": "随着自动驾驶技术的进步，全无人驾驶出租车的提议日益受到关注。有人认为，在城市中允许全无人驾驶出租车上路，无需配备安全驾驶员，是提高交通效率和安全性的关键一步。然而，这一观点也引发了广泛的争议。请撰写一篇约600字的议论文，论述在城市中允许全无人驾驶出租车运营而不配备安全驾驶员的弊端。在你的论述中，请分别从以下角度展开论证：此类车辆在处理罕见和异常道路情况时的能力不足，事故发生后的法律责任归属问题，以及对驾驶员就业的即刻影响。要求论证充分，逻辑清晰，语言流畅。",
+    "schema": {
+      "id": "N08",
+      "topic": "Permitting fully driverless taxis in cities without a safety driver",
+      "stance": "against",
+      "subclaims": [
+        "Rare and unusual road situations are still handled poorly",
+        "Legal responsibility after a crash remains unclear",
+        "A sudden shift would cost many drivers their jobs before alternatives exist"
+      ],
+      "fk_tier": "educated"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 289,
+      "completion_tokens": 142,
+      "cost": 0.00022587,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:07:33.408783+00:00"
+  },
+  {
+    "id": "N09",
+    "lang": "zh",
+    "prompt": "请论述政府资助科研项目研究成果是否应强制要求开放获取存取。支持该主张的正反双方均有充分论据，但请你撰写一篇约600字的议论文，论证开放获取的必要性。你的论述应围绕以下三个关键点展开：公众不应为同一研究成果重复付费；开放存取加速研究成果的传播与再利用；研究数据与方法的公开可提高研究的可复制性。要求论证充分，逻辑严密，使用专业术语，体现研究生学术水平。",
+    "schema": {
+      "id": "N09",
+      "topic": "Requiring open-access publication for publicly funded research",
+      "stance": "for",
+      "subclaims": [
+        "The public should not pay twice, once for the research and again to read it",
+        "Free access speeds the spread and reuse of findings",
+        "Publishing data and methods openly improves reproducibility"
+      ],
+      "fk_tier": "expert"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 286,
+      "completion_tokens": 114,
+      "cost": 0.00019682,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:07:35.186678+00:00"
+  },
+  {
+    "id": "N10",
+    "lang": "zh",
+    "prompt": "请论述反对通过平流层气溶胶注入来降低全球气温的提议。你的论点应基于该技术的潜在风险和不确定性，重点讨论突然停止注入可能导致的快速回弹变暖、区域降雨模式的不可预测变化，以及该方案可能削弱减少排放的政治意愿。在你的论述中，请为每个论点提供充分的科学依据和逻辑推理。全文大约600字。",
+    "schema": {
+      "id": "N10",
+      "topic": "Deploying stratospheric aerosol injection to cool the climate",
+      "stance": "against",
+      "subclaims": [
+        "Stopping the injections suddenly would cause rapid rebound warming",
+        "Regional rainfall patterns could shift unpredictably",
+        "It risks weakening political will to cut emissions"
+      ],
+      "fk_tier": "expert"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "writer_seed": 1,
+    "usage": {
+      "prompt_tokens": 278,
+      "completion_tokens": 91,
+      "cost": 0.0001027025,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:12:49.554416+00:00"
+  },
+  {
+    "id": "N11",
+    "lang": "zh",
+    "prompt": "请论述强制维修权立法对消费电子产业的积极影响。文章应重点阐述该立法如何促进可持续发展、降低消费者维修成本以及激发市场竞争。要求围绕可维修设备减少电子废物、零部件和维修手册的获取对维修费用的影响、独立维修店对垄断市场的冲击这三个方面展开论述，每个方面单独成段，充分展开论证。字数大约600字。",
+    "schema": {
+      "id": "N11",
+      "topic": "Right-to-repair laws for consumer electronics",
+      "stance": "for",
+      "subclaims": [
+        "Repairable devices reduce electronic waste",
+        "Access to parts and manuals lowers repair costs for owners",
+        "Independent repair shops bring competition to a closed market"
+      ],
+      "fk_tier": "expert"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 279,
+      "completion_tokens": 90,
+      "cost": 0.00017037,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:07:38.900374+00:00"
+  },
+  {
+    "id": "N12",
+    "lang": "zh",
+    "prompt": "沿海城市淡化海水作为主要供水来源的提议近年来受到越来越多的关注。请就此议题撰写一篇约600字的议论文，反驳将海水淡化作为沿海城市主要供水来源的观点。在论述中，请针对海水淡化过程的高能耗、浓盐水排放对海洋生态系统的影响以及相比之下节水和水资源再利用的经济优势这三个关键问题展开论证，深入分析反对该提议的理由。",
+    "schema": {
+      "id": "N12",
+      "topic": "Making desalination the main water supply for coastal cities",
+      "stance": "against",
+      "subclaims": [
+        "Desalination requires large amounts of energy",
+        "Discharged brine harms marine ecosystems near outfalls",
+        "Conservation and water reuse deliver supply more cheaply"
+      ],
+      "fk_tier": "expert"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 280,
+      "completion_tokens": 105,
+      "cost": 0.00018572,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:07:40.304567+00:00"
+  }
+]

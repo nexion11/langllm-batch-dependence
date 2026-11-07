@@ -1,0 +1,85 @@
+id,lang,verdict,flags,native_quality,note
+N01,en,pass,,5,seed 3 + hand-added length sentence
+N02,en,pass,,5,fixed at seed 4
+N03,en,pass,,5,fixed at seed 2
+N04,en,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."
+N05,en,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."
+N06,en,pass,,5,fixed at seed 1
+N07,en,pass,,5,fixed at seed 4
+N08,en,pass,,5,seed 1 + hand-added length sentence
+N09,en,pass,,5,The extracted points align semantically with all intended sub-claims.
+N10,en,pass,,5,seed 1 + hand-added length sentence
+N11,en,pass,,5,fixed at seed 3
+N12,en,pass,,5,"The extracted prompt aligns perfectly with the intended schema in topic, stance, and all three sub-claims."
+N01,es,pass,,5,The extracted points align perfectly with the intended schema.
+N02,es,pass,,5,fixed at seed 5
+N03,es,pass,,5,"The extracted prompt perfectly aligns with the intended topic, stance, and all three sub-claims without any extraneous points."
+N04,es,pass,,5,fixed at seed 1
+N05,es,pass,,5,"The extracted prompt perfectly aligns with the intended topic, stance, and all three sub-claims."
+N06,es,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims without any extra points."
+N07,es,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."
+N08,es,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."
+N09,es,pass,,5,fixed at seed 4
+N10,es,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."
+N11,es,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."
+N12,es,pass,,5,fixed at seed 3
+N01,zh,pass,,5,"The extracted schema aligns perfectly with the intended topic, stance, and all three sub-claims."
+N02,zh,pass,,5,fixed at seed 2
+N03,zh,pass,,5,fixed at seed 2
+N04,zh,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims without any extraneous points."
+N05,zh,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."
+N06,zh,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."
+N07,zh,pass,,5,"The extracted points align perfectly with the intended schema in topic, stance, and sub-claims."
+N08,zh,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."
+N09,zh,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims without any extraneous points."
+N10,zh,pass,,5,fixed at seed 1
+N11,zh,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."
+N12,zh,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."
+N01,ru,pass,,5,"The extracted points align perfectly with the intended schema in topic, stance, and sub-claims."
+N02,ru,pass,,5,fixed at seed 3
+N03,ru,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims without any extraneous points."
+N04,ru,pass,,5,fixed at seed 2
+N05,ru,pass,,5,fixed at seed 1
+N06,ru,pass,,5,fixed at seed 1
+N07,ru,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."
+N08,ru,pass,,5,fixed at seed 1
+N09,ru,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims without any extraneous points."
+N10,ru,pass,,5,fixed at seed 1
+N11,ru,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims without any extraneous points."
+N12,ru,pass,,5,"The extracted prompt aligns perfectly with the intended schema in topic, stance, and all three sub-claims."
+N01,ja,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims without any extraneous points."
+N02,ja,pass,,5,fixed at seed 3
+N03,ja,pass,,5,"The extracted schema aligns perfectly with the intended topic, stance, and all three sub-claims."
+N04,ja,pass,,5,fixed at seed 1
+N05,ja,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."
+N06,ja,pass,,5,The extracted points accurately reflect the intended sub-claims and stance.
+N07,ja,pass,,5,"The extracted points align perfectly with the intended schema in topic, stance, and sub-claims."
+N08,ja,pass,,5,"The extracted schema aligns perfectly with the intended topic, stance, and all three sub-claims."
+N09,ja,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims without any extraneous points."
+N10,ja,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."
+N11,ja,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."
+N12,ja,pass,,5,"The extracted schema aligns perfectly with the intended topic, stance, and all three sub-claims."
+N01,tr,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."
+N02,tr,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims without any extraneous points."
+N03,tr,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."
+N04,tr,pass,,5,fixed at seed 1
+N05,tr,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."
+N06,tr,pass,,5,fixed at seed 1
+N07,tr,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."
+N08,tr,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."
+N09,tr,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims without any extraneous points."
+N10,tr,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."
+N11,tr,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."
+N12,tr,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."
+N01,hi,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims without any extraneous points."
+N02,hi,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."
+N03,hi,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims without any extraneous points."
+N04,hi,pass,,5,fixed at seed 1
+N05,hi,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."
+N06,hi,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims without any extraneous points."
+N07,hi,pass,,5,fixed at seed 1
+N08,hi,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims without any extraneous points."
+N09,hi,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."
+N10,hi,pass,,5,fixed at seed 1
+N11,hi,pass,,5,The extracted points align perfectly with the intended schema without any extraneous claims.
+N12,hi,pass,,5,"The extracted schema perfectly aligns with the intended topic, stance, and all three sub-claims."

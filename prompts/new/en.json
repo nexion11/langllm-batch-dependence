@@ -1,0 +1,313 @@
+[
+  {
+    "id": "N01",
+    "lang": "en",
+    "prompt": "Should schools ban smartphones from classrooms? Some argue that students need their phones for learning, while others believe they are a significant hindrance. Write a persuasive essay arguing in favour of prohibiting smartphones in secondary-school classrooms. \n\nIn your essay, make a case for why removing smartphones from classrooms would be beneficial. You should discuss how this policy would impact students' behaviour and interactions during lessons and breaks. Be sure to provide convincing reasons to support your position, drawing on the potential effects on students' attention, their online experiences, and their social interactions.\n\nYour essay should be well-structured and clearly written, with each main point developed in its own paragraph. You are expected to produce a coherent and persuasive argument, supported by relevant examples and reasoning.\n\nYour essay should be about 350 words long.",
+    "schema": {
+      "id": "N01",
+      "topic": "Banning smartphones from secondary-school classrooms",
+      "stance": "for",
+      "subclaims": [
+        "Removing phones reduces distraction and improves attention in lessons",
+        "It limits online bullying during the school day",
+        "Students spend more breaks talking face to face"
+      ],
+      "fk_tier": "general"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 281,
+      "completion_tokens": 148,
+      "cost": 0.00019739,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:13:42.544672+00:00",
+    "writer_seed": 3,
+    "hand_edit": "appended the length sentence \"Your essay should be about 350 words long.\" (writer kept omitting it)"
+  },
+  {
+    "id": "N02",
+    "lang": "en",
+    "prompt": "Public libraries are considering switching from printed books to e-books. Write a persuasive essay arguing against making this change. In your essay, discuss the challenges many library users would face without access to a suitable device for reading e-books. Also, consider the long-term costs and practicalities of maintaining a collection of e-books versus printed books, particularly with regard to licence renewals. Finally, reflect on the ways in which browsing physical shelves can lead to unexpected discoveries, and how replacing printed books with e-books might affect readers' experiences. Your essay should be around 350 words.",
+    "schema": {
+      "id": "N02",
+      "topic": "Replacing printed books with e-books in public libraries",
+      "stance": "against",
+      "subclaims": [
+        "Many library users do not own a suitable reading device",
+        "Printed books last for decades without licence renewals",
+        "Browsing physical shelves helps readers discover unexpected books"
+      ],
+      "fk_tier": "general"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "writer_seed": 4,
+    "usage": {
+      "prompt_tokens": 286,
+      "completion_tokens": 115,
+      "cost": 0.00016614,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:12:13.733577+00:00"
+  },
+  {
+    "id": "N03",
+    "lang": "en",
+    "prompt": "Should cooking classes be a required part of secondary school education? Write a persuasive essay arguing in favour of making cooking a compulsory subject for secondary school students. In your essay, present a case for why teaching cooking skills in school is essential for young people's well-being and future independence. Be sure to discuss how cooking classes can help students develop healthy eating habits, reduce household expenses, and prepare them for life on their own. Your essay should be convincing and well-supported with clear examples and reasoning, and should be around 350 words in length.",
+    "schema": {
+      "id": "N03",
+      "topic": "Making cooking classes compulsory in secondary school",
+      "stance": "for",
+      "subclaims": [
+        "Students learn to prepare healthier meals for themselves",
+        "Cooking skills help households save money and waste less food",
+        "Young people leave home more able to live independently"
+      ],
+      "fk_tier": "general"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "writer_seed": 2,
+    "usage": {
+      "prompt_tokens": 283,
+      "completion_tokens": 108,
+      "cost": 0.00015809,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:11:59.455535+00:00"
+  },
+  {
+    "id": "N04",
+    "lang": "en",
+    "prompt": "Some restaurants are considering allowing customers to bring their pets inside. Write a persuasive essay arguing against this proposal. In your essay, discuss how having animals in dining areas could compromise food safety and hygiene. Also, consider the impact on customers who have allergies or are afraid of animals - how would they be affected if pets were allowed inside? Finally, think about the overall dining experience and how the presence of pets might disrupt it for other customers. Make sure to develop each of these points fully, using clear and convincing arguments to support your position. Your essay should be around 350 words.",
+    "schema": {
+      "id": "N04",
+      "topic": "Allowing pets inside all restaurants",
+      "stance": "against",
+      "subclaims": [
+        "Animals in dining areas raise food-hygiene risks",
+        "Customers with allergies or fear of animals would be excluded",
+        "Noise and disruption would spoil the experience for other diners"
+      ],
+      "fk_tier": "general"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 284,
+      "completion_tokens": 117,
+      "cost": 0.0001207925,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:06:29.840472+00:00"
+  },
+  {
+    "id": "N05",
+    "lang": "en",
+    "prompt": "The consumption of sugar-sweetened drinks has been linked to various health problems, including obesity and diabetes. In response, some countries have introduced a national tax on these beverages. Argue in favour of implementing such a tax, making the case that it would be an effective measure to improve public health. In your essay, discuss how higher prices would likely reduce consumption of sugary drinks among consumers, particularly those who are most vulnerable to their negative health effects. Also, explain how the revenue generated from the tax could be used to support public health initiatives and programmes that promote healthy lifestyles. Furthermore, consider the potential impact of the tax on manufacturers, and how it might incentivise them to reformulate their products to contain less sugar. Ensure that your argument is well-supported and clearly presented, with each of these key points developed in its own paragraph. Your essay should be around 350 words.",
+    "schema": {
+      "id": "N05",
+      "topic": "A national tax on sugar-sweetened drinks",
+      "stance": "for",
+      "subclaims": [
+        "Higher prices reduce consumption of sugary drinks",
+        "Tax revenue can fund public health programmes",
+        "Manufacturers respond by cutting sugar in their products"
+      ],
+      "fk_tier": "educated"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 283,
+      "completion_tokens": 178,
+      "cost": 0.00027705,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:06:32.555033+00:00"
+  },
+  {
+    "id": "N06",
+    "lang": "en",
+    "prompt": "Professional football is considering a radical shift away from human referees, with some advocating for the adoption of automated systems to officiate matches. Write a persuasive essay arguing against this proposition. In your essay, discuss the limitations of technology in accurately assessing complex situations on the field, the impact of frequent technical reviews on the game's tempo, and the cultural significance of human judgement in the sport. Be sure to develop each of these points in a separate paragraph, using specific examples from the game to support your argument. Your essay should be around 350 words and should convince an educated reader that human referees remain essential to the integrity and appeal of professional football.",
+    "schema": {
+      "id": "N06",
+      "topic": "Replacing human referees with automated systems in professional football",
+      "stance": "against",
+      "subclaims": [
+        "Automated systems cannot judge intent in fouls and handballs",
+        "Frequent technical reviews slow the game down",
+        "Human judgement and its mistakes are part of the sport's culture"
+      ],
+      "fk_tier": "educated"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "writer_seed": 1,
+    "usage": {
+      "prompt_tokens": 290,
+      "completion_tokens": 130,
+      "cost": 0.00021422,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:11:50.315029+00:00"
+  },
+  {
+    "id": "N07",
+    "lang": "en",
+    "prompt": "In many parts of the world, the practice of adjusting clocks seasonally to supposedly make better use of daylight has been a contentious issue. Proponents and opponents have long debated the merits of this system. Write a persuasive essay arguing in favour of abolishing the bi-annual clock changes. In your essay, discuss the negative impact of time changes on people's sleep patterns and overall health, highlighting the lingering effects that can persist for days after the clocks are adjusted. Also, examine the original rationale behind the clock changes - namely, energy savings - and argue that this justification is no longer as compelling as it once was. Furthermore, make the case that adopting a fixed time would simplify various aspects of modern life, including travel arrangements, scheduling, and international business transactions. Ensure that each of these points is developed fully in its own paragraph, supported with relevant evidence and logical reasoning. Your essay should be clear, well-organized, and approximately 350 words in length.",
+    "schema": {
+      "id": "N07",
+      "topic": "Ending seasonal clock changes",
+      "stance": "for",
+      "subclaims": [
+        "Changing the clocks disrupts sleep and health for days afterwards",
+        "The energy savings that justified clock changes are now small",
+        "A fixed time simplifies travel, scheduling and international business"
+      ],
+      "fk_tier": "educated"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "writer_seed": 4,
+    "usage": {
+      "prompt_tokens": 286,
+      "completion_tokens": 192,
+      "cost": 0.00024314,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:12:18.334755+00:00"
+  },
+  {
+    "id": "N08",
+    "lang": "en",
+    "prompt": "Cities around the world are considering allowing fully autonomous taxis to operate on their streets without a human safety driver behind the wheel. Proponents argue that this technology will revolutionize urban transportation, making it safer and more efficient. However, there are significant concerns that need to be addressed before such a drastic change is implemented. Write a persuasive essay arguing against the proposition to permit fully driverless taxis in cities without a safety driver.\n\nIn your essay, discuss the challenges that autonomous vehicles still face in handling rare and unusual road situations, such as construction detours or unexpected pedestrian behavior. Explain how the lack of clear guidelines on legal responsibility in the event of a crash involving a fully autonomous taxi could lead to confusion and potentially lengthy legal battles. Additionally, consider the potential economic impact on the large number of drivers who would lose their jobs if fully driverless taxis were suddenly introduced, and argue that alternatives should be in place before such a shift is made.\n\nYour essay should be well-supported with relevant examples and should demonstrate a clear understanding of the complexities involved in deploying fully autonomous taxis. Ensure that each of the key concerns you raise is thoroughly developed and supported with logical reasoning. The essay should be clearly written and free of technical jargon that might be unfamiliar to a non-expert reader, although technical terms relevant to the field of autonomous vehicles may be used provided they are explained clearly.\n\nYour essay should be about 350 words long.",
+    "schema": {
+      "id": "N08",
+      "topic": "Permitting fully driverless taxis in cities without a safety driver",
+      "stance": "against",
+      "subclaims": [
+        "Rare and unusual road situations are still handled poorly",
+        "Legal responsibility after a crash remains unclear",
+        "A sudden shift would cost many drivers their jobs before alternatives exist"
+      ],
+      "fk_tier": "educated"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 289,
+      "completion_tokens": 272,
+      "cost": 0.00035587,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:13:49.205235+00:00",
+    "writer_seed": 1,
+    "hand_edit": "appended the length sentence \"Your essay should be about 350 words long.\" (writer kept omitting it)"
+  },
+  {
+    "id": "N09",
+    "lang": "en",
+    "prompt": "Argue in favour of a policy requiring publicly funded research to be published open-access. In making your case, address the financial burden on taxpayers, the impact on the dissemination and utilisation of research findings, and the role of transparency in enhancing the reliability of scientific inquiry. Ensure that your discussion is grounded in the relevant scholarly literature and engages with the complexities of the issue. Your essay should be approximately 350 words.",
+    "schema": {
+      "id": "N09",
+      "topic": "Requiring open-access publication for publicly funded research",
+      "stance": "for",
+      "subclaims": [
+        "The public should not pay twice, once for the research and again to read it",
+        "Free access speeds the spread and reuse of findings",
+        "Publishing data and methods openly improves reproducibility"
+      ],
+      "fk_tier": "expert"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 286,
+      "completion_tokens": 83,
+      "cost": 0.00016582,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:06:44.034409+00:00"
+  },
+  {
+    "id": "N10",
+    "lang": "en",
+    "prompt": "Critically evaluate the proposal to deploy stratospheric aerosol injection as a means of mitigating climate change, arguing against its implementation. In your essay, address the potential consequences of abruptly halting the injections, the likely impacts on regional precipitation patterns, and the implications for global efforts to reduce greenhouse gas emissions. Ensure that each of these concerns is developed in a separate paragraph, drawing on relevant research to substantiate your claims. Your argument should be grounded in a nuanced understanding of the complex interactions between aerosol injection, climate dynamics, and societal responses to climate change.\n\nYour essay should be about 350 words long.",
+    "schema": {
+      "id": "N10",
+      "topic": "Deploying stratospheric aerosol injection to cool the climate",
+      "stance": "against",
+      "subclaims": [
+        "Stopping the injections suddenly would cause rapid rebound warming",
+        "Regional rainfall patterns could shift unpredictably",
+        "It risks weakening political will to cut emissions"
+      ],
+      "fk_tier": "expert"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 278,
+      "completion_tokens": 110,
+      "cost": 0.00019002,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:13:56.126642+00:00",
+    "writer_seed": 1,
+    "hand_edit": "appended the length sentence \"Your essay should be about 350 words long.\" (writer kept omitting it)"
+  },
+  {
+    "id": "N11",
+    "lang": "en",
+    "prompt": "In a persuasive essay of approximately 350 words, argue in favour of implementing right-to-repair laws for consumer electronics, making a compelling case that such legislation is essential for promoting sustainability, economic efficiency, and market competition. In developing your argument, be sure to address the following key considerations: the environmental benefits that accrue when devices are designed with repairability in mind, the financial advantages that consumers can expect when manufacturers are required to provide access to repair information and replacement parts, and the impact that independent repair services can have on a market currently dominated by manufacturers' own repair operations. Ensure that your discussion is grounded in a nuanced understanding of the complex interplay between design, economics, and consumer behaviour, and that your writing reflects the technical sophistication and rhetorical precision expected in a specialist audience.",
+    "schema": {
+      "id": "N11",
+      "topic": "Right-to-repair laws for consumer electronics",
+      "stance": "for",
+      "subclaims": [
+        "Repairable devices reduce electronic waste",
+        "Access to parts and manuals lowers repair costs for owners",
+        "Independent repair shops bring competition to a closed market"
+      ],
+      "fk_tier": "expert"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "writer_seed": 3,
+    "usage": {
+      "prompt_tokens": 279,
+      "completion_tokens": 159,
+      "cost": 0.00014726,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:12:29.467600+00:00"
+  },
+  {
+    "id": "N12",
+    "lang": "en",
+    "prompt": "Critically evaluate the proposal to make desalination the primary source of water supply for coastal cities, arguing against its adoption as a long-term solution. In your essay, discuss the significant energy requirements of desalination plants and their implications for greenhouse gas emissions and operating costs. Also, examine the environmental impacts of discharging brine concentrate into marine environments, including effects on local ecosystems and the potential for mitigating these impacts. Furthermore, compare the cost-effectiveness of desalination with alternative strategies for augmenting water supply, such as water conservation measures and wastewater reuse. Develop a well-supported argument against relying on desalination as the main water source for coastal cities, drawing on these considerations and others as necessary to make a compelling case. Your response should be approximately 350 words.",
+    "schema": {
+      "id": "N12",
+      "topic": "Making desalination the main water supply for coastal cities",
+      "stance": "against",
+      "subclaims": [
+        "Desalination requires large amounts of energy",
+        "Discharged brine harms marine ecosystems near outfalls",
+        "Conservation and water reuse deliver supply more cheaply"
+      ],
+      "fk_tier": "expert"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 280,
+      "completion_tokens": 151,
+      "cost": 0.00023172,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:06:50.738101+00:00"
+  }
+]

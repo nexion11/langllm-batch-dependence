@@ -1,0 +1,305 @@
+[
+  {
+    "id": "N01",
+    "lang": "hi",
+    "prompt": "विद्यालयों में स्मार्टफ़ोन के उपयोग पर बहस छिड़ी हुई है। कुछ लोगों का मानना है कि कक्षाओं में स्मार्टफ़ोन पर प्रतिबंध लगाना चाहिए। इस कथन के पक्ष में तर्क देते हुए एक निबंध लिखें जिसमें लगभग 350 शब्द हों।\n\nअपने तर्क में निम्नलिखित बातों का समर्थन करें: कक्षाओं में छात्रों का ध्यान पढ़ाई पर कैसे केंद्रित रहता है, जब उनके पास स्मार्टफ़ोन नहीं होते; स्कूल के समय में ऑनलाइन बदमाशी को रोकने में कैसे मदद मिलती है; और अवकाश के समय में छात्र आपस में आमने-सामने बातचीत करने में अधिक समय कैसे बिताते हैं।\n\nअपने विचारों को स्पष्ट और प्रभावशाली ढंग से प्रस्तुत करें ताकि पाठक आपके तर्क से सहमत हों।",
+    "schema": {
+      "id": "N01",
+      "topic": "Banning smartphones from secondary-school classrooms",
+      "stance": "for",
+      "subclaims": [
+        "Removing phones reduces distraction and improves attention in lessons",
+        "It limits online bullying during the school day",
+        "Students spend more breaks talking face to face"
+      ],
+      "fk_tier": "general"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 283,
+      "completion_tokens": 182,
+      "cost": 0.00026953,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:09:08.336381+00:00"
+  },
+  {
+    "id": "N02",
+    "lang": "hi",
+    "prompt": "पुस्तकालयों में छपी पुस्तकों की जगह ई-पुस्तकों को अपनाने की बात कही जा रही है। इस प्रस्ताव के विरुद्ध तर्क देते हुए एक निबंध लिखें। अपने तर्क में इस बात पर ध्यान दें कि बहुत से लोग ई-पुस्तकें पढ़ने के लिए उपयुक्त उपकरण अपने पास नहीं रखते, छपी पुस्तकें दशकों तक बिना किसी लाइसेंस नवीनीकरण के चलती हैं, और अलमारियों में रखी पुस्तकों को देखने से पाठकों को अप्रत्याशित पुस्तकें मिलती हैं। अपने विचार लगभग 350 शब्दों में व्यक्त करें।",
+    "schema": {
+      "id": "N02",
+      "topic": "Replacing printed books with e-books in public libraries",
+      "stance": "against",
+      "subclaims": [
+        "Many library users do not own a suitable reading device",
+        "Printed books last for decades without licence renewals",
+        "Browsing physical shelves helps readers discover unexpected books"
+      ],
+      "fk_tier": "general"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 288,
+      "completion_tokens": 142,
+      "cost": 0.00022552,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:09:10.320156+00:00"
+  },
+  {
+    "id": "N03",
+    "lang": "hi",
+    "prompt": "स्कूली शिक्षा में खाना पकाने की कक्षाओं को अनिवार्य बनाने की बात कही जा रही है। इस प्रस्ताव के पक्ष में लगभग 350 शब्दों में एक निबंध लिखें। अपने तर्क में यह बताएं कि इससे विद्यार्थियों को अपने लिए स्वस्थ भोजन तैयार करने की कला सीखने में मदद मिलेगी, घरों में पैसे बचेंगे और भोजन का कम अपव्यय होगा, और युवा अपने घरों से बाहर निकलकर स्वतंत्र जीवन जीने में समर्थ हो पाएंगे। अपने विचार स्पष्ट और तर्कसंगत तरीके से प्रस्तुत करें।",
+    "schema": {
+      "id": "N03",
+      "topic": "Making cooking classes compulsory in secondary school",
+      "stance": "for",
+      "subclaims": [
+        "Students learn to prepare healthier meals for themselves",
+        "Cooking skills help households save money and waste less food",
+        "Young people leave home more able to live independently"
+      ],
+      "fk_tier": "general"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 285,
+      "completion_tokens": 124,
+      "cost": 0.00020647,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:09:12.026067+00:00"
+  },
+  {
+    "id": "N04",
+    "lang": "hi",
+    "prompt": "कुछ लोगों का मानना है कि सभी रेस्तरां में पालतू जानवरों को आने की अनुमति देनी चाहिए। इस विचार के पक्ष और विपक्ष में कई तर्क दिए जा सकते हैं। आप इस कथन के विरोध में एक निबंध लिखें जिसमें आप अपने तर्क प्रस्तुत करें।\n\nअपने निबंध में आप इस बात पर चर्चा करें कि रेस्तरां में पालतू जानवरों को अनुमति देने से भोजन की स्वच्छता पर क्या प्रभाव पड़ सकता है, ऐसे ग्राहकों पर इसका क्या प्रभाव होगा जिन्हें जानवरों से एलर्जी है या जो जानवरों से डरते हैं, और रेस्तरां में भोजन करने वाले अन्य लोगों के अनुभव पर इसका क्या प्रभाव पड़ेगा।\n\nअपने तर्कों को स्पष्ट और संगठित तरीके से प्रस्तुत करें और लगभग 350 शब्दों में अपने विचार व्यक्त करें।",
+    "schema": {
+      "id": "N04",
+      "topic": "Allowing pets inside all restaurants",
+      "stance": "against",
+      "subclaims": [
+        "Animals in dining areas raise food-hygiene risks",
+        "Customers with allergies or fear of animals would be excluded",
+        "Noise and disruption would spoil the experience for other diners"
+      ],
+      "fk_tier": "general"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "writer_seed": 1,
+    "usage": {
+      "prompt_tokens": 286,
+      "completion_tokens": 190,
+      "cost": 0.00027858,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:13:12.958793+00:00"
+  },
+  {
+    "id": "N05",
+    "lang": "hi",
+    "prompt": "चीनी युक्त पेय पदार्थों पर राष्ट्रीय स्तर पर कर लगाने के प्रस्ताव पर विचार कीजिए। अपने तर्कों के साथ इस प्रस्ताव के समर्थन में एक निबंध लिखिए। अपने निबंध में इस बात पर चर्चा कीजिए कि कैसे इस कर के कारण इन पेय पदार्थों की खपत कम हो सकती है, सरकार को मिलने वाले राजस्व का उपयोग सार्वजनिक स्वास्थ्य कार्यक्रमों के लिए किया जा सकता है, और निर्माता अपनी उत्पादों में चीनी की मात्रा कम करने के लिए प्रेरित हो सकते हैं। अपने तर्कों को लगभग 350 शब्दों में प्रस्तुत कीजिए।",
+    "schema": {
+      "id": "N05",
+      "topic": "A national tax on sugar-sweetened drinks",
+      "stance": "for",
+      "subclaims": [
+        "Higher prices reduce consumption of sugary drinks",
+        "Tax revenue can fund public health programmes",
+        "Manufacturers respond by cutting sugar in their products"
+      ],
+      "fk_tier": "educated"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 285,
+      "completion_tokens": 131,
+      "cost": 0.00021347,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:09:16.352572+00:00"
+  },
+  {
+    "id": "N06",
+    "lang": "hi",
+    "prompt": "पेशेवर फुटबॉल में मानवीय अंपायरों की जगह स्वचालित प्रणालियों को लाने के प्रस्ताव पर विचार करें। इस विचार के विरुद्ध तर्क देते हुए एक प्रभावशाली निबंध लिखें जिसमें आप स्वचालित प्रणालियों की सीमाओं और पेशेवर फुटबॉल पर उनके संभावित प्रभावों का विश्लेषण करें।\n\nअपने तर्क में फाउल और हैंडबॉल जैसे विवादित निर्णयों में कर्ता के इरादे को समझने में स्वचालित प्रणालियों की असमर्थता, तकनीकी समीक्षाओं के कारण खेल की गति पर पड़ने वाले प्रभाव, और मानवीय निर्णयों में होने वाली त्रुटियों के खेल की सांस्कृतिक विरासत का हिस्सा होने जैसे महत्वपूर्ण बिंदुओं को शामिल करें।\n\nनिबंध में इन बिंदुओं को अलग-अलग अनुच्छेदों में विकसित करते हुए अपने तर्क को लगभग 350 शब्दों में प्रस्तुत करें।",
+    "schema": {
+      "id": "N06",
+      "topic": "Replacing human referees with automated systems in professional football",
+      "stance": "against",
+      "subclaims": [
+        "Automated systems cannot judge intent in fouls and handballs",
+        "Frequent technical reviews slow the game down",
+        "Human judgement and its mistakes are part of the sport's culture"
+      ],
+      "fk_tier": "educated"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 292,
+      "completion_tokens": 208,
+      "cost": 0.00029292,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:09:18.996833+00:00"
+  },
+  {
+    "id": "N07",
+    "lang": "hi",
+    "prompt": "समय परिवर्तन, जिसे घड़ी आगे या पीछे करना भी कहा जाता है, एक ऐसी प्रथा है जिस पर वर्षों से बहस होती रही है। कुछ देशों में इसे ऊर्जा बचत और दिन के उजाले का बेहतर उपयोग करने के लिए अपनाया गया था, लेकिन अब इसके पक्ष और विपक्ष में कई तर्क दिए जा रहे हैं। इस निबंध में आपको समय परिवर्तन को पूरी तरह से समाप्त करने के पक्ष में तर्क प्रस्तुत करने हैं।\n\nआपको अपने तर्क में यह दर्शाना है कि समय परिवर्तन न केवल हमारे शारीरिक और मानसिक स्वास्थ्य पर नकारात्मक प्रभाव डालता है, बल्कि इसके आर्थिक लाभ भी अब संदिग्ध हो गए हैं। इसके अलावा, एक निश्चित समय का होना हमारे दैनिक जीवन, यात्रा और अंतरराष्ट्रीय व्यापार के लिए कैसे लाभदायक हो सकता है, इसे भी विस्तार से समझाना है।\n\nअपने निबंध में आप समय परिवर्तन के कारण होने वाली स्वास्थ्य समस्याओं, जैसे कि नींद की गड़बड़ी और अन्य शारीरिक समस्याओं, पर चर्चा कीजिए। साथ ही, यह भी बताइए कि कैसे आधुनिक जीवनशैली और ऊर्जा उपयोग के तरीकों में बदलाव के कारण समय परिवर्तन से होने वाली ऊर्जा बचत अब बहुत कम हो गई है। अंत में, एक निश्चित समय के होने से यात्रा और व्यावसायिक गतिविधियों में कैसे सुगमता आती है, इसे भी स्पष्ट कीजिए।\n\nआपका निबंध लगभग 350 शब्दों में होना चाहिए और इसमें तर्कों को विस्तार से प्रस्तुत किया जाना चाहिए।",
+    "schema": {
+      "id": "N07",
+      "topic": "Ending seasonal clock changes",
+      "stance": "for",
+      "subclaims": [
+        "Changing the clocks disrupts sleep and health for days afterwards",
+        "The energy savings that justified clock changes are now small",
+        "A fixed time simplifies travel, scheduling and international business"
+      ],
+      "fk_tier": "educated"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "writer_seed": 1,
+    "usage": {
+      "prompt_tokens": 288,
+      "completion_tokens": 323,
+      "cost": 0.00040652,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:13:15.552119+00:00"
+  },
+  {
+    "id": "N08",
+    "lang": "hi",
+    "prompt": "शहरों में बिना सुरक्षा चालक के पूरी तरह से चालक रहित टैक्सियों को अनुमति देने के प्रस्ताव पर विचार करें। इस विचार के खिलाफ तर्क देते हुए एक प्रभावशाली निबंध लिखें जिसमें लगभग 350 शब्द हों। अपने तर्क में इस बात पर चर्चा करें कि कैसे असामान्य सड़क स्थितियों में ये वाहन अभी भी अपर्याप्त प्रदर्शन करते हैं, दुर्घटना के बाद कानूनी जिम्मेदारी का प्रश्न अभी भी अस्पष्ट है, और ऐसे वाहनों को अचानक अपनाने से बड़ी संख्या में चालकों की नौकरियाँ चली जाएंगी जब तक कि उनके लिए वैकल्पिक रोजगार के अवसर उपलब्ध नहीं हो जाते। अपने तर्क को मजबूत करने के लिए इन बिंदुओं को अलग-अलग अनुच्छेदों में विस्तारित करें।",
+    "schema": {
+      "id": "N08",
+      "topic": "Permitting fully driverless taxis in cities without a safety driver",
+      "stance": "against",
+      "subclaims": [
+        "Rare and unusual road situations are still handled poorly",
+        "Legal responsibility after a crash remains unclear",
+        "A sudden shift would cost many drivers their jobs before alternatives exist"
+      ],
+      "fk_tier": "educated"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 291,
+      "completion_tokens": 169,
+      "cost": 0.00025933,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:09:24.183138+00:00"
+  },
+  {
+    "id": "N09",
+    "lang": "hi",
+    "prompt": "सरकारी अनुदान से संचालित अनुसंधान के निष्कर्षों को खुली पहुँच वाले प्रकाशनों में अनिवार्य रूप से प्रकाशित करने की नीति के समर्थन में एक तर्कपूर्ण निबंध लिखें। इस नीति के पक्ष में तर्क देते हुए अपने निबंध में निम्नलिखित बातों पर चर्चा करें: सरकारी धन से होने वाले अनुसंधान के परिणामों को मुफ्त में उपलब्ध कराने से अनुसंधान निष्कर्षों के प्रसार और पुन: उपयोग में तेजी आती है; अनुसंधान के लिए जनता द्वारा एक बार धन देने के बाद उसके निष्कर्षों को पढ़ने के लिए फिर से धन देने की अनावश्यकता; और डेटा और तरीकों को खुला रखने से अनुसंधान की पुनरावृत्ति में सुधार होता है। अपने तर्क को लगभग 350 शब्दों में प्रस्तुत करें।",
+    "schema": {
+      "id": "N09",
+      "topic": "Requiring open-access publication for publicly funded research",
+      "stance": "for",
+      "subclaims": [
+        "The public should not pay twice, once for the research and again to read it",
+        "Free access speeds the spread and reuse of findings",
+        "Publishing data and methods openly improves reproducibility"
+      ],
+      "fk_tier": "expert"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 288,
+      "completion_tokens": 186,
+      "cost": 0.00026952,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:09:26.695077+00:00"
+  },
+  {
+    "id": "N10",
+    "lang": "hi",
+    "prompt": "जलवायु शीतलन के लिए समतापमंडलीय एरोसॉल इंजेक्शन तैनात करने के प्रस्ताव के विरोध में एक तर्कपूर्ण निबंध लिखें। अपने तर्क में इस तकनीक के संभावित खतरों और अनिश्चितताओं पर ध्यान केंद्रित करें। लगभग 350 शब्दों में अपने विचार प्रस्तुत करें। \n\nअपने निबंध में समतापमंडलीय एरोसॉल इंजेक्शन के अचानक बंद होने की स्थिति में तेजी से तापमान वृद्धि की संभावना, इस तकनीक के कारण क्षेत्रीय वर्षा पैटर्न में अप्रत्याशित बदलाव की संभावनाएं, और इसके द्वारा ग्रीनहाउस गैस उत्सर्जन में कटौती करने के राजनीतिक संकल्प को कमजोर करने के जोखिम जैसे महत्वपूर्ण बिंदुओं पर विस्तार से चर्चा करें।",
+    "schema": {
+      "id": "N10",
+      "topic": "Deploying stratospheric aerosol injection to cool the climate",
+      "stance": "against",
+      "subclaims": [
+        "Stopping the injections suddenly would cause rapid rebound warming",
+        "Regional rainfall patterns could shift unpredictably",
+        "It risks weakening political will to cut emissions"
+      ],
+      "fk_tier": "expert"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "writer_seed": 1,
+    "usage": {
+      "prompt_tokens": 280,
+      "completion_tokens": 178,
+      "cost": 0.000159845,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:13:17.267167+00:00"
+  },
+  {
+    "id": "N11",
+    "lang": "hi",
+    "prompt": "उपभोक्ता इलेक्ट्रॉनिक्स के लिए मरम्मत के अधिकार संबंधी कानूनों के समर्थन में एक तर्कपूर्ण निबंध लिखें। अपने तर्क में यह दर्शाएं कि ऐसे कानून कैसे इलेक्ट्रॉनिक कचरे को कम करने, उपभोक्ताओं के लिए मरम्मत की लागत घटाने, और मरम्मत बाजार में प्रतिस्पर्धा बढ़ाने में सहायक हो सकते हैं।\n\nअपने निबंध में आप इस तथ्य का उल्लेख कर सकते हैं कि मरम्मत योग्य उपकरण इलेक्ट्रॉनिक कचरे की समस्या को कम करने में महत्वपूर्ण भूमिका निभा सकते हैं। इसके अलावा, आप यह तर्क दे सकते हैं कि निर्माताओं द्वारा मरम्मत के लिए आवश्यक पुर्जों और मैनुअल की उपलब्धता सुनिश्चित करने से उपभोक्ताओं के लिए मरम्मत की लागत कम हो सकती है। साथ ही, आप स्वतंत्र मरम्मत दुकानों के उदय को बढ़ावा देने और इसके परिणामस्वरूप मरम्मत सेवाओं के बाजार में प्रतिस्पर्धा बढ़ने के संभावित लाभों पर भी चर्चा कर सकते हैं।\n\nनिबंध में इन बिंदुओं को अलग-अलग अनुच्छेदों में विकसित करें और लगभग 350 शब्दों में अपने तर्क को विस्तार से प्रस्तुत करें।",
+    "schema": {
+      "id": "N11",
+      "topic": "Right-to-repair laws for consumer electronics",
+      "stance": "for",
+      "subclaims": [
+        "Repairable devices reduce electronic waste",
+        "Access to parts and manuals lowers repair costs for owners",
+        "Independent repair shops bring competition to a closed market"
+      ],
+      "fk_tier": "expert"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 281,
+      "completion_tokens": 268,
+      "cost": 0.00034907,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:09:34.031740+00:00"
+  },
+  {
+    "id": "N12",
+    "lang": "hi",
+    "prompt": "तटीय शहरों में विलवणीकरण को मुख्य जल स्रोत बनाने के प्रस्ताव के समर्थन और विरोध में तर्क प्रस्तुत कीजिये। इस निबंध में, इस प्रस्ताव के विरुद्ध तर्क देते हुए लगभग 350 शब्दों में अपने पक्ष को प्रस्तुत कीजिये। \n\nअपने तर्क में, विलवणीकरण प्रक्रिया की ऊर्जा तीव्रता, इसके द्वारा उत्पादित लवणीय जल के समुद्री पारिस्थितिकी तंत्र पर प्रभाव, और जल संरक्षण एवं पुन: उपयोग की आर्थिक व्यवहार्यता जैसे महत्वपूर्ण बिंदुओं पर चर्चा कीजिये। तर्क को तर्कसंगत और तथ्यपरक बनाते हुए अपने मत को मजबूती से प्रस्तुत कीजिये।",
+    "schema": {
+      "id": "N12",
+      "topic": "Making desalination the main water supply for coastal cities",
+      "stance": "against",
+      "subclaims": [
+        "Desalination requires large amounts of energy",
+        "Discharged brine harms marine ecosystems near outfalls",
+        "Conservation and water reuse deliver supply more cheaply"
+      ],
+      "fk_tier": "expert"
+    },
+    "writer_model": "meta-llama/llama-4-maverick",
+    "writer_model_served": "meta-llama/llama-4-maverick",
+    "usage": {
+      "prompt_tokens": 282,
+      "completion_tokens": 155,
+      "cost": 0.00023642,
+      "reasoning_tokens": 0
+    },
+    "written_at": "2026-11-07T05:09:36.148859+00:00"
+  }
+]

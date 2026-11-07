@@ -1,0 +1,119 @@
+{
+  "E2b_embeddings_query_l2": {
+    "R1_zscore_pipeline": {
+      "none": 0.3853,
+      "batch": 0.4794,
+      "ref_original": 0.4615,
+      "ref_n2": 0.3956,
+      "ref_human": 0.3952,
+      "recovery_ref_original": 0.81,
+      "recovery_ref_n2": 0.109,
+      "recovery_ref_human": 0.105
+    },
+    "R2_zscore_pipeline": {
+      "none": 0.3534,
+      "batch": 0.4739,
+      "ref_original": 0.4248,
+      "ref_n1": 0.4317,
+      "ref_n2": 0.3931,
+      "ref_human": 0.3929,
+      "recovery_ref_original": 0.593,
+      "recovery_ref_n1": 0.65,
+      "recovery_ref_n2": 0.329,
+      "recovery_ref_human": 0.328
+    },
+    "R1_plain_lr_no_target_stats": 0.3409,
+    "R2_plain_lr_no_target_stats": 0.3259
+  },
+  "R3b_imbalance_isolation": {
+    "by_share": {
+      "20": {
+        "accuracy": 0.4825,
+        "dominant_recall": 0.4818
+      },
+      "40": {
+        "accuracy": 0.4789,
+        "dominant_recall": 0.4098
+      },
+      "60": {
+        "accuracy": 0.4708,
+        "dominant_recall": 0.3376
+      },
+      "80": {
+        "accuracy": 0.4593,
+        "dominant_recall": 0.2673
+      }
+    },
+    "by_dominant_at_80": {
+      "claude": 0.4586,
+      "deepseek": 0.4917,
+      "gemini": 0.4889,
+      "gpt": 0.4313,
+      "grok": 0.4261
+    }
+  },
+  "R1_reference_sampling_spread": {
+    "5": {
+      "mean": 0.4339,
+      "p2.5": 0.3984,
+      "p97.5": 0.4671,
+      "min": 0.3869
+    },
+    "10": {
+      "mean": 0.4516,
+      "p2.5": 0.4305,
+      "p97.5": 0.4747,
+      "min": 0.4226
+    },
+    "20": {
+      "mean": 0.4582,
+      "p2.5": 0.44,
+      "p97.5": 0.4762,
+      "min": 0.4333
+    }
+  },
+  "R1_per_test_language": {
+    "en": {
+      "none": 0.361,
+      "reference": 0.544,
+      "batch": 0.556,
+      "recovery": 0.943
+    },
+    "es": {
+      "none": 0.311,
+      "reference": 0.472,
+      "batch": 0.522,
+      "recovery": 0.763
+    },
+    "zh": {
+      "none": 0.303,
+      "reference": 0.508,
+      "batch": 0.519,
+      "recovery": 0.949
+    },
+    "ru": {
+      "none": 0.231,
+      "reference": 0.433,
+      "batch": 0.461,
+      "recovery": 0.88
+    },
+    "ja": {
+      "none": 0.281,
+      "reference": 0.475,
+      "batch": 0.503,
+      "recovery": 0.875
+    },
+    "tr": {
+      "none": 0.242,
+      "reference": 0.367,
+      "batch": 0.336,
+      "recovery": 1.324
+    },
+    "hi": {
+      "none": 0.278,
+      "reference": 0.467,
+      "batch": 0.542,
+      "recovery": 0.716
+    }
+  }
+}
